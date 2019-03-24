@@ -1,0 +1,7 @@
+C:\Users\АдылкановМ.CORP\source\repos\pr\pr\bin\Debug\pr.exe.config
+C:\Users\АдылкановМ.CORP\source\repos\pr\pr\bin\Debug\pr.exe
+C:\Users\АдылкановМ.CORP\source\repos\pr\pr\bin\Debug\pr.pdb
+C:\Users\АдылкановМ.CORP\source\repos\pr\pr\obj\Debug\pr1.csprojAssemblyReference.cache
+C:\Users\АдылкановМ.CORP\source\repos\pr\pr\obj\Debug\pr1.csproj.CoreCompileInputs.cache
+C:\Users\АдылкановМ.CORP\source\repos\pr\pr\obj\Debug\pr.exe
+C:\Users\АдылкановМ.CORP\source\repos\pr\pr\obj\Debug\pr.pdb
